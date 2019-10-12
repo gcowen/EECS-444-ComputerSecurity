@@ -34,7 +34,7 @@ Discuss:<br>
 Compress the file will loose the information on OriginalFirstThunk and change the name. Decompress can not recover the information at OriginalFirstThunk but can recover the name. Also, the unpack operation is unsuccessful which broken my binary code, I check the information in the Hex view, it is same as the original code, but it can’t run.<br>
 ## step 4<br>
 ADD the feather code of one particular virus to the PE header, but it’s not working.....<br>
-![](https://github.com/lovethatcat/EECS-444-ComputerSecurity/raw/master/HW2Q1/Images/feathercode.png)<br><br>
+![](https://github.com/lovethatcat/EECS-444-ComputerSecurity/raw/master/HW2Q1/Images/featurecode.png)<br><br>
 `packed by Aspack:`<br>
 ![](https://github.com/lovethatcat/EECS-444-ComputerSecurity/raw/master/HW2Q1/Images/aspack.png)<br><br>
 `Packed by UPX`<br>
